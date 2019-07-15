@@ -1,4 +1,4 @@
-# DistributedSystem-NimGame
+# NimGame
 
 NimPlayer is a class type which stores the player's information.
 
